@@ -372,41 +372,6 @@ Topic → Subtopic → Problems (with checkboxes)
 
 ---
 
-## Heaps / Priority Queue
-
-### Basics
-- [ ] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) — Medium
-- [ ] [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) — Easy
-- [ ] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) — Medium
-- [ ] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) — Medium
-- [ ] [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) — Medium
-
-### Intermediate
-- [ ] [Task Scheduler](https://leetcode.com/problems/task-scheduler/) — Medium
-- [ ] [Reorganize String](https://leetcode.com/problems/reorganize-string/) — Medium
-- [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) — Hard
-- [ ] [IPO](https://leetcode.com/problems/ipo/) — Hard (priority scheduling)
-- [ ] [Smallest Range Covering K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) — Hard
-- [ ] [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) — Hard
-- [ ] [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) — Medium
-- [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) — Hard
-- [ ] [Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/) — Medium
-- [ ] [Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) — Hard
-
-### Advanced
-- [ ] [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/) — Hard
-- [ ] [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) — Hard
-- [ ] [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) — Medium/Hard
-- [ ] [Kth Smallest Prime Fraction](https://leetcode.com/problems/kth-smallest-prime-fraction/) — Hard
-- [ ] [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) — Easy/Medium
-- [ ] [Merge Intervals Using Heap](https://leetcode.com/problems/meeting-rooms-ii/) — Medium
-- [ ] [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/) — Hard
-- [ ] [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) — Medium/Hard
-- [ ] [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) — Medium
-- [ ] [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/) — Hard
-
----
-
 ## Graphs
 
 ### Basics (BFS / DFS Fundamentals)
