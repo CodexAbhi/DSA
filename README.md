@@ -1,6 +1,14 @@
 # DSA Master List (Progressive 450+ Problems)
 Topic → Subtopic → Problems (with checkboxes)
 
+**About this Roadmap :** This is a comprehensive, progressive curriculum designed to take you from a beginner level to interview-ready for top-tier tech companies. Unlike random question banks, this list is structured by patterns, not just data structures.
+
+**Uniqueness & Benefits:**
+
+* **Pattern Mastery:** Problems are grouped by specific techniques (e.g., Sliding Window, Two Pointer, Topological Sort), helping you recognize the underlying logic of new problems rather than just memorizing solutions.
+- **Progressive Overload:** Each category starts with "Basics" to build confidence before moving to "Intermediate" and "Advanced" challenges, mimicking a natural learning curve.
+- **Deep Coverage:** With over 500 problems, this list covers the full spectrum—from standard software engineering interviews (Easy/Medium) to complex optimizations found in High-Frequency Trading and Research roles (Hard).
+
 ## Arrays
 
 ### Basics
